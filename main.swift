@@ -42,7 +42,7 @@ if d < 0
 
 
 
-//P =a+b+c
+//Task2: P =a+b+c
 //c = √a2+b2
 //S = 1/2 a*b
 
