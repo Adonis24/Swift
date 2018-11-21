@@ -11,7 +11,7 @@ import Foundation
 let a: Double = 10.0
 let b: Int = 9
 let c: Int = 1
-var d: Double =  Double(pow(Double(b),2) - Double(4*a)*Double(c))
+let d: Double =  Double(pow(Double(b),2) - Double(4*a)*Double(c))
 let x1: Double?
 let x2: Double?
 
